@@ -1,14 +1,11 @@
-[
+[{
+  "posts": [
     {
-        "quoteText": "Quote # 1 text goes here",
-        "author": "Author #1"
-    },
-    {
-        "quoteText": "Quote # 2 text goes here",
-        "author": "Author #2"
-    },
-    {
-        "quoteText": "Quote # 3 text goes here",
-        "author": "Author #3"
+      "id": 1,
+      "title": "hello"
     }
-]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}]
