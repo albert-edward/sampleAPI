@@ -1,1 +1,14 @@
-[{ 'Name': "Vignesh", 'Salary': '30000' }]
+[
+    {
+        "quoteText": "Quote # 1 text goes here",
+        "author": "Author #1"
+    },
+    {
+        "quoteText": "Quote # 2 text goes here",
+        "author": "Author #2"
+    },
+    {
+        "quoteText": "Quote # 3 text goes here",
+        "author": "Author #3"
+    }
+]
