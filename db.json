@@ -1,1 +1,1 @@
-[{ Name: "Vignesh", Salary: 30000 }]
+[{ 'Name': "Vignesh", 'Salary': '30000' }]
